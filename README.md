@@ -81,5 +81,5 @@ Full site source (based on the group repo): static HTML pages, `styles.css`
 
 ## Wiki
 
-- **YouTube Link** — demo video (deployment + running site + URL + issues)
-- **S3 Bucket Setup** — screenshots of the bucket and uploaded content above
+- [**YouTube Link**](https://github.com/LinnKhantCho2002/CS651-Project1-Part3/wiki/YouTube-Link) — demo video (deployment + running site + URL + issues)
+- [**S3 Bucket Setup**](https://github.com/LinnKhantCho2002/CS651-Project1-Part3/wiki/S3-Bucket-Setup) — screenshots of the bucket and uploaded content above
