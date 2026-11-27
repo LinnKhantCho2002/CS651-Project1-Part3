@@ -49,6 +49,12 @@ with the S3 URL visible in the address bar.
 
 ![Site live](screenshots/07-site-live.jpg)
 
+### Project 2 sign-in
+
+The S3 site's Login link opens the [Project 2 sign-in page](https://roomwise-348532082235.us-west1.run.app/login.html) on Cloud Run. Project 2 handles Google sign-in and opens the room planner. The original Project 1 guest demo is available at `guest-login.html`.
+
+For this handoff, upload the built `login.html` and `guest-login.html` to the root of the existing S3 bucket.
+
 ## Issues encountered
 
 - **Second attempt (v2 bucket).** Our first bucket needed a redo — this recording
